@@ -15,7 +15,7 @@ using edu::vcccd::vc::csv15::fibonacci;
 using std::cout;
 using std::endl;
 int main(int argc, char *argv[]) {
-	int64_t index = fibonacci(9);
+	int64_t index = fibonacci(10);
 
 	cout << "The value is " << index << endl;
 }
